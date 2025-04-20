@@ -1,5 +1,5 @@
-# Coding Quiz 2
+# Coding Quiz 3
 
-For this quiz, all classes have been provided. You will not need to create any new classes.
+For this quiz, you are given the Mob class. You will need to create another class.
 
-Once you've cloned the repo, write your code in the provided Tree class. You should use the provided BinaryTreeNode class in your implementation.
+To to the handout for more information on the coding quiz. Good luck!
